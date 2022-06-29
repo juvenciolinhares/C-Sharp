@@ -1,0 +1,14 @@
+C:\ws-vs2022\While\While\bin\Debug\netcoreapp3.1\While.exe
+C:\ws-vs2022\While\While\bin\Debug\netcoreapp3.1\While.deps.json
+C:\ws-vs2022\While\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.json
+C:\ws-vs2022\While\While\bin\Debug\netcoreapp3.1\While.runtimeconfig.dev.json
+C:\ws-vs2022\While\While\bin\Debug\netcoreapp3.1\While.dll
+C:\ws-vs2022\While\While\bin\Debug\netcoreapp3.1\While.pdb
+C:\ws-vs2022\While\While\obj\Debug\netcoreapp3.1\While.csproj.AssemblyReference.cache
+C:\ws-vs2022\While\While\obj\Debug\netcoreapp3.1\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\While\While\obj\Debug\netcoreapp3.1\While.AssemblyInfoInputs.cache
+C:\ws-vs2022\While\While\obj\Debug\netcoreapp3.1\While.AssemblyInfo.cs
+C:\ws-vs2022\While\While\obj\Debug\netcoreapp3.1\While.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\While\While\obj\Debug\netcoreapp3.1\While.dll
+C:\ws-vs2022\While\While\obj\Debug\netcoreapp3.1\While.pdb
+C:\ws-vs2022\While\While\obj\Debug\netcoreapp3.1\While.genruntimeconfig.cache

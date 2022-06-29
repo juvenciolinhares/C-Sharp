@@ -1,0 +1,15 @@
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.exe
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.deps.json
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.runtimeconfig.json
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.dll
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.pdb
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.csproj.AssemblyReference.cache
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.AssemblyInfo.cs
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.dll
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\refint\OperadoresComparativos.dll
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.pdb
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.genruntimeconfig.cache
+C:\ws-vs2022\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\ref\OperadoresComparativos.dll

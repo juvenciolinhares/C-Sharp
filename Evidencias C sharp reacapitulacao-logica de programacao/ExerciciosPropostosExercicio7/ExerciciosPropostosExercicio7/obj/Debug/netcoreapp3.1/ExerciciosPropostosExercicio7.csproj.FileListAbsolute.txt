@@ -1,0 +1,14 @@
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\bin\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.exe
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\bin\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.deps.json
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\bin\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.runtimeconfig.json
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\bin\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.runtimeconfig.dev.json
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\bin\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.dll
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\bin\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.pdb
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\obj\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.csproj.AssemblyReference.cache
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\obj\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\obj\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.AssemblyInfoInputs.cache
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\obj\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.AssemblyInfo.cs
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\obj\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\obj\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.dll
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\obj\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.pdb
+C:\ws-vs2022\ExerciciosPropostosExercicio7\ExerciciosPropostosExercicio7\obj\Debug\netcoreapp3.1\ExerciciosPropostosExercicio7.genruntimeconfig.cache

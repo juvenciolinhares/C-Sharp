@@ -1,0 +1,15 @@
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net6.0\ExercicioSaidaDeDados.csproj.AssemblyReference.cache
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net6.0\ExercicioSaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net6.0\ExercicioSaidaDeDados.AssemblyInfoInputs.cache
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net6.0\ExercicioSaidaDeDados.AssemblyInfo.cs
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net6.0\ExercicioSaidaDeDados.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\net6.0\ExercicioSaidaDeDados.exe
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\net6.0\ExercicioSaidaDeDados.deps.json
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\net6.0\ExercicioSaidaDeDados.runtimeconfig.json
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\net6.0\ExercicioSaidaDeDados.dll
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\net6.0\ExercicioSaidaDeDados.pdb
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net6.0\ExercicioSaidaDeDados.dll
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net6.0\refint\ExercicioSaidaDeDados.dll
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net6.0\ExercicioSaidaDeDados.pdb
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net6.0\ExercicioSaidaDeDados.genruntimeconfig.cache
+C:\ws-vs2022\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net6.0\ref\ExercicioSaidaDeDados.dll

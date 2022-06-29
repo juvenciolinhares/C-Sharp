@@ -1,0 +1,15 @@
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.exe
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.deps.json
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.runtimeconfig.json
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.dll
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.pdb
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.csproj.AssemblyReference.cache
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.AssemblyInfoInputs.cache
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.AssemblyInfo.cs
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.dll
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\refint\OperadoresAritimeticos.dll
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.pdb
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.genruntimeconfig.cache
+C:\ws-vs2022\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\ref\OperadoresAritimeticos.dll

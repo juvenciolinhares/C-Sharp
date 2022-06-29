@@ -1,0 +1,14 @@
+C:\ws-vs2022\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.exe
+C:\ws-vs2022\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.deps.json
+C:\ws-vs2022\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.runtimeconfig.json
+C:\ws-vs2022\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.runtimeconfig.dev.json
+C:\ws-vs2022\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.dll
+C:\ws-vs2022\EstruturaFor\EstruturaFor\bin\Debug\netcoreapp3.1\EstruturaFor.pdb
+C:\ws-vs2022\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.csproj.AssemblyReference.cache
+C:\ws-vs2022\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.AssemblyInfoInputs.cache
+C:\ws-vs2022\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.AssemblyInfo.cs
+C:\ws-vs2022\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.dll
+C:\ws-vs2022\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.pdb
+C:\ws-vs2022\EstruturaFor\EstruturaFor\obj\Debug\netcoreapp3.1\EstruturaFor.genruntimeconfig.cache

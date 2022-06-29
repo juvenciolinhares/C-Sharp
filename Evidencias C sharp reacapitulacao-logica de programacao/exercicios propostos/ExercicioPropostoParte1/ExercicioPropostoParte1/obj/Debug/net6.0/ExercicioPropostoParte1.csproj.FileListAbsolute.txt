@@ -1,0 +1,15 @@
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\bin\Debug\net6.0\ExercicioPropostoParte1.exe
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\bin\Debug\net6.0\ExercicioPropostoParte1.deps.json
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\bin\Debug\net6.0\ExercicioPropostoParte1.runtimeconfig.json
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\bin\Debug\net6.0\ExercicioPropostoParte1.dll
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\bin\Debug\net6.0\ExercicioPropostoParte1.pdb
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\obj\Debug\net6.0\ExercicioPropostoParte1.csproj.AssemblyReference.cache
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\obj\Debug\net6.0\ExercicioPropostoParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\obj\Debug\net6.0\ExercicioPropostoParte1.AssemblyInfoInputs.cache
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\obj\Debug\net6.0\ExercicioPropostoParte1.AssemblyInfo.cs
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\obj\Debug\net6.0\ExercicioPropostoParte1.csproj.CoreCompileInputs.cache
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\obj\Debug\net6.0\ExercicioPropostoParte1.dll
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\obj\Debug\net6.0\refint\ExercicioPropostoParte1.dll
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\obj\Debug\net6.0\ExercicioPropostoParte1.pdb
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\obj\Debug\net6.0\ExercicioPropostoParte1.genruntimeconfig.cache
+C:\ws-vs2022\ExercicioPropostoParte1\ExercicioPropostoParte1\obj\Debug\net6.0\ref\ExercicioPropostoParte1.dll
